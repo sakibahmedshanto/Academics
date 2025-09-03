@@ -1,0 +1,32 @@
+7) Web-
+
+1. Static / dynamic Web, API, Types оf АРІ, HTTP Methods, Header, body, Token, Status Code, Bean, OOP, Container Bean
+2. Rest APT type, Piped Architecture, MVC, SOC, Controllers, Service, Repository, Coupling
+3. Request/Response, Method, Headers, status, Session, cookies, MVC/Layer
+4. Data Base, ER diagram, Cache, Relational Database
+5. Web/App, Web Server, Application Server, Dispatcher, Handler, Controller, Service, Repository
+6. Bean, Life Cycle of Bean, Singleton, Thread, Pool, Monolith vs Microservice
+7. ORM, JPA, Event drivers, Communication
+8. Inter Service Communication
+
+
+
+
+
+
+Rest Api  --> @RestController
+
+Get method --> @GetMapping
+
+Api Post/Put req body --> @RequestBody
+
+
+metadata: Content type,authorization
+
+authorizatio: Bearer<token>
+
+
+DEPARTMENT OF LAW
+AND HUMAN RIGHT
+• Master of Laws (General)
+• Master of Human Rights
